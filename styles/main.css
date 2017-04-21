@@ -1,9 +1,9 @@
 body {
   background-color: lime;
-  cursor: url(/styles/Curvy Onyx Normal Select.cur), 2 2, default;
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=99295);
 }
 a {
-  cursor: url(/styles/Curvy Onyx Link Select.cur), 2 2, pointer;
+  cursor: cursor: url(http://www.rw-designer.com/cursor-extern.php?id=99293);
 }
 p, a, h1, h2, h3, h4, h5, h6 {
   color: black;
