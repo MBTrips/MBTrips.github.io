@@ -1,9 +1,9 @@
 body {
   background-color: lime;
-  cursor: url(Curvy Onyx Normal Select.cur);
+  cursor: url(/styles/Curvy Onyx Normal Select.cur);
 }
 a {
-  cursor: url(Curvy Onyx Link Select.cur);
+  cursor: url(/styles/Curvy Onyx Link Select.cur);
 }
 p, a, h1, h2, h3, h4, h5, h6 {
   color: black;
