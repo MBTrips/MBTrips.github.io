@@ -1,9 +1,9 @@
 body {
   background-color: lime;
-  cursor: url(/styles/Curvy Onyx Normal Select.cur), auto;
+  cursor: url(/styles/Curvy Onyx Normal Select.cur), default;
 }
 a {
-  cursor: url(/styles/Curvy Onyx Link Select.cur), auto;
+  cursor: url(/styles/Curvy Onyx Link Select.cur), pointer;
 }
 p, a, h1, h2, h3, h4, h5, h6 {
   color: black;
